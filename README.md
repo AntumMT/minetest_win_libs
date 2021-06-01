@@ -14,3 +14,4 @@ Dependencies for building [Minetest](http://minetest.net/) on Windows.
 - [sqlite3](https://www.sqlite.org/) ([Public Domain](docs/licenses/sqlite3.txt)) v3.35.5
 - [freetype](https://www.freetype.org/) ([FTL](docs/licenses/FTL.txt) / [GNU GPL v2.0](docs/licenses/GNU-GPLv2.txt)) v2.10.4
 - [curl](https://curl.se/) ([curl](docs/licenses/curl.txt)) v7.77.0
+- [ncurses](https://invisible-island.net/ncurses/) ([ncurses](docs/licenses/ncurses.txt)) v6.2
