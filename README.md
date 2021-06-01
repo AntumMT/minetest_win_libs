@@ -13,3 +13,4 @@ Dependencies for building [Minetest](http://minetest.net/) on Windows.
 - [openal](https://openal-soft.org/) ([GNU LGPL v2.0](docs/licenses/GNU-LGPLv2.0.txt)) v1.21.0
 - [sqlite3](https://www.sqlite.org/) ([Public Domain](docs/licenses/sqlite3.txt)) v3.35.5
 - [freetype](https://www.freetype.org/) ([FTL](docs/licenses/FTL.txt) / [GNU GPL v2.0](docs/licenses/GNU-GPLv2.txt)) v2.10.4
+- [curl](https://curl.se/) ([curl](docs/licenses/curl.txt)) v7.77.0
