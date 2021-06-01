@@ -17,3 +17,4 @@ Dependencies for building [Minetest](http://minetest.net/) on Windows.
 - [ncurses](https://invisible-island.net/ncurses/) ([ncurses](docs/licenses/ncurses.txt)) v6.2
 - [gettext (libintl)](https://www.gnu.org/software/gettext/) ([GNU GPL v3.0](docs/licenses/GNU-GPLv3.0.txt)) v0.21
 - [libpng](http://www.libpng.org/pub/png/libpng.html) ([zlib](docs/licenses/libpng.txt)) v1.6.37
+- [libjpeg-turbo](https://libjpeg-turbo.virtualgl.org/) ([BSD / zlib](docs/licenses/libjpeg-turbo.txt) / [IJG](docs/licenses/README.ijg)) v2.0.6
